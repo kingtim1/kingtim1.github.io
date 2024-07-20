@@ -20,4 +20,4 @@ I am a Senior Staff Research Engineer at Google DeepMind leading teams focused o
 My research has received recognition from various national and international organizations. For example, the National Science Foundation (NSF) and the Association for the Advancement of Artificial Intelligence (AAAI).
 
 **Biography**  
-I grew up in a small town outside of Burlington, Vermont. I enjoy playing guitar, painting, writing short stories, hiking, and skiing/snowboarding. I’m also an Oakland A’s fan.
+I currently live in the Austin, TX area. I enjoy playing guitar, painting, writing short stories, hiking, and skiing/snowboarding. I’m also an Oakland A’s fan.
